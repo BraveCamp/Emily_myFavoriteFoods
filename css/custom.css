@@ -1,3 +1,8 @@
+body {
+    background-color: #9DD7CA
+}
+
+
 /* The carousel is the big banner of images on the home page 
 that rotates images like a carousel/merry-go-round rotates*/
 
@@ -39,7 +44,7 @@ the carousel */
 .carousel-caption h1 {
 font-family:    Impact;
 font-size:      8em;
-color:          #000000 !important;
+color:          #1D9C7F !important;
 }
 
 /* This changes the style of the captions surrounded by <p> tags in 
